@@ -50,7 +50,7 @@ FlashMedia/
 ---
 
 ### 🤝 Collaboration  
-This project was developed in collaboration with [Maria Adina](https://github.com/mariaxadina) and [Alexandru Gabriel]().
+This project was developed in collaboration with [Topliceanu Maria - Adina](https://github.com/mariaxadina) and [Chera Alexandru - Gabriel](https://github.com/gabirelul).
 
 
 
