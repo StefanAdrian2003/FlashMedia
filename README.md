@@ -46,3 +46,11 @@ FlashMedia/
 ---
 
 *Clean, scalable, and authentication-ready — FlashMedia is a great base for any media-based ASP.NET Core web app.*
+
+---
+
+### 🤝 Collaboration  
+This project was developed in collaboration with [Maria Adina](https://github.com/mariaxadina) and [Alexandru Gabriel]().
+
+
+
